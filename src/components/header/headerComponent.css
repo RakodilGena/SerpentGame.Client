@@ -1,0 +1,20 @@
+.headerComponent {
+
+    width: 100%;
+
+    margin: 0 auto;
+
+    background-color: forestgreen;
+    padding: 10px 20px;
+    color: wheat;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerText{
+    fill: black;
+    font-size: x-large;
+    stroke: black;
+    stroke-width: 2;
+}

@@ -1,0 +1,13 @@
+.horiz-align-center{
+    display: block;
+    width: fit-content;
+    margin: auto;
+}
+
+.menu-title{
+    margin: 10px auto 20px;
+}
+
+.menu-btn {
+    margin-bottom: 20px;
+}
